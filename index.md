@@ -1,5 +1,3 @@
-# About
-bio
 
 ## Work Links
 - [ResearchGate](https://www.researchgate.net/profile/David_Roberts67)
