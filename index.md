@@ -6,6 +6,3 @@
 ## Vali Services
 - [Ombi](https://ombi.dave8927.com)
 - [Grafana](https://grafana.dave8927.com)
-
-# Emi
-- is the best!!!
