@@ -11,6 +11,9 @@ code here
 ```
 
 ## Header 2
+[Ombi](https://ombi.dave8927.com)
+[Grafana](https://grafana.dave8927.com)
+
 Some text
 - list
 - list
